@@ -21,4 +21,4 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Facebook Badge](https://img.shields.io/badge/-Phúc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.facebook.com/pguc2/)](https://www.facebook.com/pguc2)
+[![Facebook Badge](https://img.shields.io/badge/-@Phúc-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/pguc2/)](https://www.facebook.com/pguc2)
